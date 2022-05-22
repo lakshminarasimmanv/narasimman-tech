@@ -26,10 +26,19 @@ Coursera: [Python for Everybody Specialization](https://bit.ly/3LAjJkO)
 
 2. **[Automate the Boring Stuff with Python](https://amzn.to/3lyEKBO)** by _Al Sweigart_
 
-3. **[Introduction to Algorithms](https://amzn.to/3wJHfpQ)** by _Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest_ and _Clifford Stein_
-
 **Coding Practices:**
 
-1. Beginners - Hackerrank: [Python](https://www.hackerrank.com/domains/python)
+1. Hackerrank: [Python](https://www.hackerrank.com/domains/python)
 
 2. Coding Interview - [Leetcode](https://leetcode.com)
+
+## Python Beginners Resources:
+
+### **Intermediate Books:**
+
+1. **[Introduction to Algorithms](https://amzn.to/3wJHfpQ)** by _Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest_ and _Clifford Stein_
+
+
+### **Coding Interview Prep Resources:**
+
+- Coding Interview - [Leetcode](https://leetcode.com)
