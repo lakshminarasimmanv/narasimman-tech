@@ -1,5 +1,7 @@
 # Python Resources and Links:
 
+**Note:** There are numerous resources for each topic. I reccommend you to pick one or two resource and once you finish that, then you can move on to the other resource.
+
 ## Table of Content
 
 - [Beginners - Resources](#python-beginners-resources)
@@ -83,7 +85,7 @@
 1. **[NumPy:](https://numpy.org)**
    1. [NumPy quickstart](https://numpy.org/devdocs/user/quickstart.html)
    2. [NumPy tutorials](https://numpy.org/numpy-tutorials)
-   3. [NumPy: Creating And Manipulating Numerical Vata](https://scipy-lectures.org/intro/numpy/index.html)
+   3. [NumPy: Creating And Manipulating Numerical Data](https://scipy-lectures.org/intro/numpy/index.html)
    4. [Advanced NumPy](https://scipy-lectures.org/advanced/advanced_numpy/index.html)
    5. [NumPy Illustrated: The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 
