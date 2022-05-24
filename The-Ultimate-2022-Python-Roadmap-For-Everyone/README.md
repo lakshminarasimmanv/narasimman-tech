@@ -51,9 +51,9 @@
 
 ### **Books:**
 
-- **[Python Crash Course](https://amzn.to/3LvdtKY)** by _Eric Matthes_
+- **[Python Crash Course](https://amzn.to/3wOR6uu)** by _Eric Matthes_
 
-- **[Automate the Boring Stuff with Python](https://amzn.to/3lyEKBO)** by _Al Sweigart_
+- **[Automate the Boring Stuff with Python](https://amzn.to/3sRRozC)** by _Al Sweigart_
 
 ### **Coding Practices:**
 
@@ -74,7 +74,7 @@
 
 ### **Books:**
 
-- **[Introduction to Algorithms](https://amzn.to/3wJHfpQ)** by _Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest_ and _Clifford Stein_
+- **[Introduction to Algorithms](https://amzn.to/3adf9M9)** by _Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest_ and _Clifford Stein_
 
 ### **Coding Interview Prep:**
 
@@ -114,7 +114,7 @@
 
 ### **DevOps And SRE:**
 
-- [Python for DevOps: Learn Ruthlessly Effective Automation](https://amzn.to/3LvJrqs)
+- [Python for DevOps: Learn Ruthlessly Effective Automation](https://www.oreilly.com/library/view/python-for-devops/9781492057680/)
 
 - [YouTube Video: Python for DevOps](https://youtu.be/dbCBe7hlLbk) - This video covers the book.
 
@@ -133,21 +133,24 @@
 
 ### **Artificial Intelligence - Machine Learning and Deep Learning:**
 
-1. Book: [Deep Learning - Book by Aaron Courville, Ian Goodfellow, and Yoshua Bengio](https://www.deeplearningbook.org)
-2. Book: [Deep Learning from Scratch: Building with Python from First Principles](https://amzn.to/38DTf4u)
+1. Book: [Deep Learning - Book by Aaron Courville, Ian Goodfellow, and Yoshua Bengio](https://amzn.to/3NARNPc)
 
-3. Book: [AI and Machine Learning for Coders](https://amzn.to/3wHTrYb)
+2. Book: [Deep Learning from Scratch: Building with Python from First Principles](https://www.oreilly.com/library/view/deep-learning-from/9781492041405/)
 
-4. [fast.ai](https://www.fast.ai) - Free AI Online Courses
+3. Book: [AI and Machine Learning for Coders](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/)
 
-5. [Kaggle: Machine Learning and Deep Learning Courses](https://www.kaggle.com/learn)
+4. Book: [Deep Learning for Coders with fastai and PyTorch](https://amzn.to/3MHYHBT)
+
+5. [fast.ai](https://www.fast.ai) - Free AI Online Courses
+
+6. [Kaggle: Machine Learning and Deep Learning Courses](https://www.kaggle.com/learn)
 
 
 - **[TensorFlow:](https://www.tensorflow.org)**
 
    1. Intermediate Course: [TensorFlow Developer Professional Certificate](https://imp.i384100.net/qn6j5O), same course for the Google TensorFlow Certificate exam.
    2. Advanced Course: [TensorFlow: Advanced Techniques Specialization](https://imp.i384100.net/DVdN9q)
-   3. Book: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://amzn.to/3MDTFqj)
+   3. Book: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    4. [TensorFlow Official Resources](https://www.tensorflow.org/resources/learn-ml)
    5. [TensorFlow Official Tutorials](https://www.tensorflow.org/tutorials)
    6. [TensorFlow Certificate exam](https://www.tensorflow.org/certificate)
@@ -160,7 +163,7 @@
    5. [Official PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html)
    6. [GitHub: Official PyTorch Examples](https://github.com/pytorch/examples)
    7. [Official PyTorch Tutorial In Google Colab](https://pytorch.org/tutorials/beginner/colab.html)
-   8. Book: [Deep Learning with PyTorch](https://amzn.to/38d1JPM)
+   8. Book: [Deep Learning with PyTorch](https://amzn.to/3yRWS1n)
 
 - ### **Data - Science, Analyst, and Engineering:**
 
@@ -177,9 +180,9 @@
 
    - **Books:** 
    
-   1. [Python for Data Analysis](https://amzn.to/3wLD2Sy)
-   2. [Practical Statistics for Data Scientists](https://amzn.to/3wFFyex)
-   3. [The Art of Statistics: How to Learn from Data](https://amzn.to/3PCPqwN) - Not a technical book, but I highly recommend it if you want to look at some real-world examples and experiences.
+   1. [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
+   2. [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+   3. [The Art of Statistics: How to Learn from Data](https://amzn.to/3wO03V9) - Not a technical book, but I highly recommend it if you want to look at some real-world examples and experiences.
 
 ### **Additional Resources:**
 
