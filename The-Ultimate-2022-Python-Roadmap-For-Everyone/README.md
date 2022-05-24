@@ -1,6 +1,8 @@
 # Python Resources and Links:
 
-**Note:** There are numerous resources for each topic. I reccommend you to pick one or two resource and once you finish that, then you can move on to the other resource.
+**Note:** 
+- I have used and still using majority of these resources. 
+- There are numerous resources for each topic. I recommend you to pick one or two resources and once you finish that, then you can move on to the other resource.
 
 ## Table of Content
 
@@ -18,11 +20,9 @@
 - [Career Specific Resources](#career-specific-resources-and-links)
    * [DevOps and SRE](#devops-and-sre)
    * [Web-Development](#web-development)
-   * [Artificial Intellignece - Machine Learning and Deep Learning](#artificial-intelligence---machine-learning-and-deep-learning)
+   * [Artificial Intelligence - Machine Learning and Deep Learning](#artificial-intelligence---machine-learning-and-deep-learning)
    * [Data - Engineering, Science and Analysis](#data---science-analyst-and-engineering)
 - [Additional Resources](#additional-resources)
-
-
 
 ## Beginners Resources:
 
@@ -35,7 +35,7 @@
 
 - Codecademy Pro: [Python3: Language Fluency](https://bit.ly/3GkSYjn)
 
-- Coursera: [Python for Everybody Specialization](https://bit.ly/3LAjJkO)
+- Coursera: [Python for Everybody Specialization](https://imp.i384100.net/LPdNA3)
 
 ### **YouTube - Tutorials and Projects:**
 
@@ -145,12 +145,12 @@
 
 - **[TensorFlow:](https://www.tensorflow.org)**
 
-   1. Intermediate Course: [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice), same course for Google TensorFlow Certificate exam.
-   2. Advanced Course: [TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
+   1. Intermediate Course: [TensorFlow Developer Professional Certificate](https://imp.i384100.net/qn6j5O), same course for the Google TensorFlow Certificate exam.
+   2. Advanced Course: [TensorFlow: Advanced Techniques Specialization](https://imp.i384100.net/DVdN9q)
    3. Book: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://amzn.to/3MDTFqj)
-   3. [TensorFlow Official Resources](https://www.tensorflow.org/resources/learn-ml)
-   4. [TensorFlow Official Tutorials](https://www.tensorflow.org/tutorials)
-   5. [TensorFlow Certificate exam](https://www.tensorflow.org/certificate)
+   4. [TensorFlow Official Resources](https://www.tensorflow.org/resources/learn-ml)
+   5. [TensorFlow Official Tutorials](https://www.tensorflow.org/tutorials)
+   6. [TensorFlow Certificate exam](https://www.tensorflow.org/certificate)
 
 - **[PyTorch:](https://pytorch.org)**
    1. [PyTorch Official Tutorials](https://pytorch.org/tutorials/)
@@ -166,11 +166,11 @@
 
    - **Paid Courses:** 
    
-      * [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+      * [IBM Data Engineering Professional Certificate](https://imp.i384100.net/NKyq1N)
 
-      * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+      * [IBM Data Science Professional Certificate](https://imp.i384100.net/yR61Jy)
 
-      * [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+      * [Google Data Analytics Professional Certificate](https://imp.i384100.net/YgmaEq)
 
    - **Free Courses:**
       * [Kaggle Courses](https://www.kaggle.com/learn)
@@ -179,7 +179,7 @@
    
    1. [Python for Data Analysis](https://amzn.to/3wLD2Sy)
    2. [Practical Statistics for Data Scientists](https://amzn.to/3wFFyex)
-   3. [The Art of Statistics: How to Learn from Data](https://amzn.to/3PCPqwN) - Not a technical Book, but I highly recommend if you want to look at some real world examples and experiences.
+   3. [The Art of Statistics: How to Learn from Data](https://amzn.to/3PCPqwN) - Not a technical book, but I highly recommend it if you want to look at some real-world examples and experiences.
 
 ### **Additional Resources:**
 
