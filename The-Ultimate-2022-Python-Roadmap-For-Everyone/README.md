@@ -148,7 +148,7 @@
 
 - **[TensorFlow:](https://www.tensorflow.org)**
 
-   1. Intermediate Course: [TensorFlow Developer Professional Certificate](https://imp.i384100.net/qn6j5O), same course for the Google TensorFlow Certificate exam.
+   1. Beginners - Intermediate Course: [TensorFlow Developer Professional Certificate](https://imp.i384100.net/qn6j5O), same course for the Google TensorFlow Certificate exam.
    2. Advanced Course: [TensorFlow: Advanced Techniques Specialization](https://imp.i384100.net/DVdN9q)
    3. Book: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    4. [TensorFlow Official Resources](https://www.tensorflow.org/resources/learn-ml)
