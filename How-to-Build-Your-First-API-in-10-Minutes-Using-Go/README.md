@@ -1,34 +1,10 @@
-package main
+# A step-by-step guide for the above code using markdown.
 
-import (
-	"encoding/json"
-	"io/ioutil"
-	"log"
-	"net/http"
-)
+## usersHandler
 
-type User struct {
-	Name string `json:"name"`
-	Age  int    `json:"age"`
-}
+This is the handler for the `/users` endpoint. It returns a JSON-encoded list of users.
 
-var users = []User{
-	{
-		Name: "John Smith",
-		Age:  30,
-	},
-	{
-		Name: "Jane Doe",
-		Age:  20,
-	},
-}
-
-func main() {
-	http.HandleFunc("/users", usersHandler)
-	http.HandleFunc("/users/create", usersCreateHandler)
-	log.Fatal(http.ListenAndServe(":8082", nil))
-}
-
+```go
 func usersHandler(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 
@@ -38,7 +14,13 @@ func usersHandler(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 	}
 }
+```
 
+## usersCreateHandler
+
+This is the handler for the `/users/create` endpoint. It creates a new user from the request body, and appends it to the `users` slice.
+
+```go
 func usersCreateHandler(w http.ResponseWriter, r *http.Request) {
 	body, err := ioutil.ReadAll(r.Body)
 	if err != nil {
@@ -59,3 +41,10 @@ func usersCreateHandler(w http.ResponseWriter, r *http.Request) {
 	encoder := json.NewEncoder(w)
 	encoder.Encode(user)
 }
+```
+
+# A Quick Step-by-Step Guide:
+
+* Clone this repo.
+
+* run ```go run main.go```
