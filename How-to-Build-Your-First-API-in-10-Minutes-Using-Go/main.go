@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -24,9 +25,15 @@ var users = []User{
 }
 
 func main() {
+	http.HandleFunc("/", serverStatus)
 	http.HandleFunc("/users", usersHandler)
 	http.HandleFunc("/users/create", usersCreateHandler)
-	log.Fatal(http.ListenAndServe(":8082", nil))
+	log.Printf("Listening...\n")
+	log.Fatal(http.ListenAndServe(":8080", nil))
+}
+
+func serverStatus(w http.ResponseWriter, r *http.Request) {
+	fmt.Fprintf(w, "Status: %s\n", http.StatusText(http.StatusOK))
 }
 
 func usersHandler(w http.ResponseWriter, r *http.Request) {
