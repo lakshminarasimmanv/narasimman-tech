@@ -1,6 +1,8 @@
 # Creating a REST API in Go with JSON Web Tokens
 
-To view the tutorial article, click the [link]() below.
+To view the tutorial article, click the [link](https://bit.ly/3zPOtKu) below.
+
+**Article:** https://bit.ly/3zPOtKu
 
 ## How to run the program?
 
