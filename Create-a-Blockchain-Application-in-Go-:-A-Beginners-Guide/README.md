@@ -18,13 +18,15 @@ curl -X POST -H "Content-Type: application/json" -d '{"BPM":10}' http://localhos
 
 **Output:**
 
-``{
+```
+{
   "Index": 1,
   "Timestamp": "2022-08-25 21:08:26.13258 +0530 IST m=+1950.938579001",
   "BPM": 10,
   "Hash": "a6f1a856b1a8112cc0bfb45ce24930408ac3cf0c4da18fc18839aa9c28f7cb31",
   "PrevHash": "b1ae03473636acf0969718c00f417aacad6b0d9ec19f21a8bc19b75bafc3a666"
-}``
+}
+```
 
 This will add a new block to the blockchain with the data BPM = 10.
 
