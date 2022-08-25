@@ -18,8 +18,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"BPM":10}' http://localhos
 
 **Output:**
 
-``
-{
+``{
   "Index": 1,
   "Timestamp": "2022-08-25 21:08:26.13258 +0530 IST m=+1950.938579001",
   "BPM": 10,
