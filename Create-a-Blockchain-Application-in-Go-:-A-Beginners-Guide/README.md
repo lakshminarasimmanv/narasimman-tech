@@ -4,7 +4,9 @@ This is the code repository for my article, **[Create a Blockchain Application i
 
 "ADDR" should be set as the server listen port in the .env file. Example: ADDR=8080
 
-``go run main.go``
+```
+go run main.go
+```
 
 This program will start by listening on port 8080 and then creating the genesis block.
 
