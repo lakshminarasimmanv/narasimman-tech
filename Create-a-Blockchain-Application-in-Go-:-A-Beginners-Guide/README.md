@@ -43,3 +43,6 @@ The blockchain is a slice of blocks. Each block contains the following informati
 **Hash:** The hash of the block.
 
 **PrevHash:** The hash of the previous block in the blockchain.
+
+
+Original Source Code: https://github.com/nosequeldeebee/blockchain-tutorial
